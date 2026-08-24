@@ -60,13 +60,21 @@ I am particularly interested in using technology to explore problems related to:
 
 ---
 
-### 📚 Background
+### 📚 Academic & Professional Background
 
-My academic and professional experience spans **engineering, communication, and public-sector governance**. 
+My background spans **engineering, communication, and public-sector governance**, providing an interdisciplinary foundation for my transition into AI and computer science.
 
-Working with real-world policy and administrative problems has given me extensive experience in complex information processing, research, coordination, and analytical problem-solving. 
+* **Master of Journalism and Communication (M.J.C.)**, Nanjing University 
+  *Training in media analysis, strategic communication, and applied research methods.*
 
-I am now building a strong technical foundation in **computer science, data, and artificial intelligence**, with the goal of pursuing graduate study and a long-term career in technology.
+* **B.E. in Agricultural Water Resources Engineering**, Wuhan University  
+  *Training in quantitative reasoning, engineering systems, and complex problem-solving.*
+
+**Public-Sector Governance & Communication**
+
+My professional experience in public administration has involved **policy communication, public information, cross-departmental coordination, and water resources management**. Working with real-world governance problems has strengthened my understanding of how information is produced, communicated, and used in complex institutional environments.
+
+I am now combining this domain experience with **computer science, data science, and artificial intelligence** to build intelligent tools for **computational media analysis, information processing, and real-world problem-solving**.
 
 ---
 
