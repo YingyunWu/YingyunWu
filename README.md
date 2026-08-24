@@ -64,11 +64,11 @@ I am particularly interested in using technology to explore problems related to:
 
 My background spans **engineering, communication, and public-sector governance**, providing an interdisciplinary foundation for my transition into AI and computer science.
 
-* **Master of Journalism and Communication (M.J.C.)**, Nanjing University 
-  *Training in media analysis, strategic communication, and applied research methods.*
+* **Master of Journalism and Communication (M.J.C.)**, Nanjing University  
+  *Focus on media analysis, strategic communication, and applied research methods.*
 
 * **B.E. in Agricultural Water Resources Engineering**, Wuhan University  
-  *Training in quantitative reasoning, engineering systems, and complex problem-solving.*
+  *Foundation in quantitative reasoning, engineering systems, and complex problem-solving.*
 
 **Public-Sector Governance & Communication**
 
